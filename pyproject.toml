@@ -2,11 +2,11 @@
 name = "PyQtDarkTheme"
 version = "2.1.0"
 description = "Flat dark theme for PySide and PyQt."
-authors = ["Yunosuke Ohsugi <63651161+5yutan5@users.noreply.github.com>"]
+authors = ["Matthew Yang <matthew.yang204@gmail.com>"]
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/5yutan5/PyQtDarkTheme"
-homepage = "https://github.com/5yutan5/PyQtDarkTheme"
+repository = "https://github.com/matthewyang204/PyQtDarkTheme"
+homepage = "https://github.com/matthewyang204/PyQtDarkTheme"
 documentation = "https://pyqtdarktheme.readthedocs.io"
 packages = [{ include = "qdarktheme" }]
 
