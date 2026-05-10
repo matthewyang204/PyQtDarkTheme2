@@ -1,9 +1,9 @@
-# Fork Purpose
+# This Is A Fork
 
 This repository performs the following:
 
 - Includes fixes to run on newer Python versions
-- Publishes to PyPi as `pyqtdarktheme-fork`
+- Publishes to PyPi as `pyqtdarktheme2`
 
 # PyQtDarkTheme
 
